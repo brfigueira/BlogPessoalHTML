@@ -1,0 +1,13 @@
+body {
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(232, 73, 0, 1) 60%, rgba(237, 221, 83, 1) 100%);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    border: solid black;
+    border: 50%;
+}
